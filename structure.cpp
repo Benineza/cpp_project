@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//great job
 struct School
 {
 	string name;

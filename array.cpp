@@ -2,8 +2,10 @@
 using namespace std;
 int main()
  {
-int MyArray[3]={2,3,4};
-cout<<MyArray[0]<<endl;
-cout<<MyArray[1]<<endl;
-cout<<MyArray[2];
+// you did great job but it is better to use loop method for display the array elements
+int  Myarray[5]={2,4,5,6,9};
+for(int i=0;i<5;i++)
+{
+	cout<<Myarray[i]<<endl;
+}
 }
