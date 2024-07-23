@@ -1,13 +1,9 @@
 #include <iostream>
 using namespace std;
 int main()
-{
-	 string name;
-	 int age;
-	 cout<<"enter your name:";
-	 cin>>name;
-	 cout<<"entern your age:";
-	 cin>>age;
-	 cout<<"Hello"<<"\t"<<name<<"\t"<<  "your age is:"<< age<<"years old";
+ {
+int MyArray[3]={2,3,4};
+cout<<MyArray[0]<<endl;
+cout<<MyArray[1]<<endl;
+cout<<MyArray[2];
 }
-
