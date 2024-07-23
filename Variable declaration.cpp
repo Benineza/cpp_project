@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//great job
 int main()
  {
  	int num1=1;

@@ -2,6 +2,7 @@
 using namespace std;
 int main() 
 {
+	//great job
 	int number;
 	cout<<"Enter number:"<<endl;
 	cin>>number;
