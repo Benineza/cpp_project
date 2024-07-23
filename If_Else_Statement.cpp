@@ -2,7 +2,7 @@
 using namespace std;
 int main() 
 {
-	int number= -1;
+	int number;
 	cout<<"Enter number:"<<endl;
 	cin>>number;
 	if(number<0)
@@ -19,5 +19,4 @@ int main()
 		
 	}
 
-	return 0;
 }
